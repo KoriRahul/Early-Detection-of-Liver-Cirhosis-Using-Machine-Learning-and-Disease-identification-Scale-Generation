@@ -5,3 +5,5 @@ Technologies: Machine Learning, Synthetic Data Generation, Ensemble Learning
 Programming Languages: Python
 Libraries/Frameworks: Scikit-learn, XGBoost, TensorFlow/Keras
 Techniques: Data Augmentation, Hyperparameter Tuning, Feature Engineering, Cross-Validation
+
+For further improvement. Integration of CNN to potentially enhance feature extraction and classification accuracy to detect the disease by incorporating various radiological imaging data or other high-dimensional data sources.
